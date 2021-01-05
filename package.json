@@ -13,7 +13,7 @@
     "test:unit:watch": "TZ=UTC vue-cli-service test:unit --watch"
   },
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "core-js": "^2.6.5",
     "date-fns": "^2.9.0",
     "lodash": "^4.17.15",
